@@ -4,4 +4,4 @@ This respository stores a [changelog](https://github.com/neondatabase/neon-drizz
 
 <img width="1231" alt="image" src="https://github.com/user-attachments/assets/2226b4d2-3fd5-4e4e-924f-b768b507d9af">
 
-For infomration about this feature, see [Managing your data with interactive tables](https://neon.tech/docs/guides/tables).
+For information about this feature, see [Managing your data with interactive tables](https://neon.tech/docs/guides/tables).
