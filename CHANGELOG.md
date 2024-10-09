@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 0.0.18
+
+- Added `toolbar-bottom-panel` slot to the toolbar.
+
 ## 0.0.17
 
 - Added flat schema capability (show tables without grouping by schema).
