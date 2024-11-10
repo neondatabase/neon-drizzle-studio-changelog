@@ -8,6 +8,7 @@ This changelog documents updates and fixes for the Drizzle Studio integration th
 - Fixed display of `bytea` data and added the ability to change the display type to hex or utf8.
 - Fixed deletion of materialized views.
 - Fixed limit reset when applying a filter.
+- Fixed an issue with switching between tables with the same names in schemas.
 
 ## 0.0.16
 
