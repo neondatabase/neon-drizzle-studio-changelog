@@ -2,6 +2,18 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 0.0.20
+
+- Slot `toolbar-bottom-panel` renamed to `callout` and added when table is not selected.
+
+## 0.0.19
+
+- Added identity columns and generated columns support.
+
+## 0.0.18
+
+- Added `toolbar-bottom-panel` slot into toolbar.
+
 ## 0.0.17
 
 - Added flat schema capability (show tables without grouping by schema).
