@@ -2,6 +2,20 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.1
+
+- Added local storage migration
+
+## 1.0.0
+
+- Added the ability to create/alter/drop schemas
+- Added the ability to create/alter tables
+- Added the ability to create/alter views
+- Added the ability to create enums
+- Added the ability to refresh db schema
+- Improved dropdowns
+- Improved style customization
+
 ## 0.0.20
 
 - Slot `toolbar-bottom-panel` renamed to `callout` and added when table is not selected.
