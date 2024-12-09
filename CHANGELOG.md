@@ -2,6 +2,18 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.3
+
+- Array support in schema viewer with ability to select dimensions
+- Proper array support in data editor
+- Fixed validation of currently selected table (fail gracefully with wrong schema or table name)
+
+## 1.0.2
+
+- Added `ON DELETE`|`ON UPDATE` rules for foreign key constraint
+- Fixed deleting table constraints
+- Fixed pulling table indexes from db
+
 ## 1.0.1
 
 - Added local storage migration
