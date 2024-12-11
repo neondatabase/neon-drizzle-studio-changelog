@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.4
+
+- Added database name instead of ID in drizzle function
+
 ## 1.0.3
 
 - Array support in schema viewer with ability to select dimensions
