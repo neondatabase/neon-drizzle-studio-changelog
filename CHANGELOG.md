@@ -2,6 +2,11 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.5
+
+- Added `selected-schema` props to the component to allow pre-selection of a schema
+- Added support for CHECK constraints in schema viewer
+
 ## 1.0.4
 
 - Added database name instead of ID in drizzle function
