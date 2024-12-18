@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.6
+
+- Added response validation from the `drizzle` function
+
 ## 1.0.5
 
 - Added `selected-schema` props to the component to allow pre-selection of a schema
