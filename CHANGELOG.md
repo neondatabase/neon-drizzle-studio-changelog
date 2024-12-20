@@ -2,6 +2,11 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.8
+
+- Added database metadata to bug report
+- Revised dependency tree and reduced bundle size down to 525kb gzipped
+
 ## 1.0.7
 
 - Fixed regression with views
