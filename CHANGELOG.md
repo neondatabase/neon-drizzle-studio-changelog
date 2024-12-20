@@ -2,6 +2,13 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.7
+
+- Fixed regression with views
+- Added `selected-table` props to the component to allow pre-selection of a table
+- Added filter by entity type (table/view/materialized view)
+- Made the UI loading more progressive
+
 ## 1.0.6
 
 - Added response validation from the `drizzle` function
