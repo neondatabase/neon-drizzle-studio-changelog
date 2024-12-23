@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.9
+
+- Fixed a UI regression that occurred when there was not enough space in a table to resize the last column
+
 ## 1.0.8
 
 - Added database metadata to bug report
