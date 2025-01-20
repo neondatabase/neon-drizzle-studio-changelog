@@ -2,6 +2,12 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.11
+
+- Added `uuid`, `cidr`, `inet`, `macaddr` and `macaddr8` data types.
+- Added range selection with copy/paste capability.
+- Added new setting option for expanding subviews.
+
 ## 1.0.10
 
 - Partitioned tables are shown
