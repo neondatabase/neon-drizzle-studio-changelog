@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.12
+
+- Fixed `toSorted` bug caused by older browser versions.
+
 ## 1.0.11
 
 - Added `uuid`, `cidr`, `inet`, `macaddr` and `macaddr8` data types.
