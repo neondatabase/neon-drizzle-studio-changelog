@@ -2,6 +2,16 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.13
+
+- Added datepicker and timepicker.
+- Added error handling in schema management.
+- Added a new setting option for pagination by page.
+- Improved error handling for INSERT/UPDATE/DELETE.
+- Added `isUnexpected` as the second parameter to `drizzleError` function.
+- Added column type to header cell.
+- Fixed a bug when an enum had an empty string value.
+
 ## 1.0.12
 
 - Fixed `toSorted` bug caused by older browser versions.
