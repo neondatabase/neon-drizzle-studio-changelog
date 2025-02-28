@@ -2,6 +2,15 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.15
+
+- Added `exclude-schemas` props to the component to allow specific schemas.
+- Added `exclude-tables` props to the component to allow specific tables.
+
+## 1.0.14
+
+- Fixed a regression where the error dialog would not be displayed if some cell values ​​could not be converted.
+
 ## 1.0.13
 
 - Added datepicker and timepicker.
