@@ -2,6 +2,15 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.17
+
+- Fixed export.
+- Added export in `xlsx` format.
+
+## 1.0.16
+
+- Fixed JSON editor for `jsonb` columns.
+
 ## 1.0.15
 
 - Added `exclude-schemas` props to the component to allow specific schemas.
