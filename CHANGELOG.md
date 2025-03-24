@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.19
+
+- Fixed a regression where primary keys were missing.
+
 ## 1.0.18
 
 - Fixed foreign key introspection.
