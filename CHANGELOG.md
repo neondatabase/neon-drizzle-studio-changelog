@@ -2,6 +2,11 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.20
+
+- Added additional context and an identifier to error in the error callback.
+- Moved the logic out of the `window` and web component props to prevent XSS, and instead handle it through interactions with `ref`.
+
 ## 1.0.19
 
 - Fixed a regression where primary keys were missing.
