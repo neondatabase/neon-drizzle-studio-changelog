@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.21
+
+- Added a button to retrieve the database schema.
+
 ## 1.0.20
 
 - Added additional context and an identifier to error in the error callback.
