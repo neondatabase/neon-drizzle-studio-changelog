@@ -2,6 +2,16 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.0.22
+
+- Added a multiline editor.
+- Changed JSON editor ui.
+- Fixed resizing of columns in Safari browser.
+- Fixed a bug where FK constraints were not displayed if CHECK constraints existed.
+- Fixed ui bugs with toolbar buttons.
+- Fixed saving bug in json cell editor.
+- Fixed incorrect `bigserial` value handling.
+
 ## 1.0.21
 
 - Added a button to retrieve the database schema.
