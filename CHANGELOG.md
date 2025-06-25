@@ -2,6 +2,25 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.1.4
+
+- The page title section has been replaced by the `page-title` slot.
+
+## 1.1.3
+
+- Fixed loading spinners
+- Fixed text selection while sidebar resizing
+- Show empty view if the schema is empty
+- When create a table, the default schema is the one selected in the sidebar
+- Fixed JSONB datatype when exporting to csv
+- Added data reload to cmd+R (Also added external function refresh)
+- Added aria-label for icon buttons
+- Fix relation names
+
+## 1.1.2
+
+- Bundle React
+
 ## 1.0.22
 
 - Added a multiline editor.
