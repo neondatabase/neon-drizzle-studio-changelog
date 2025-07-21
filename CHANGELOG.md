@@ -2,6 +2,12 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.2.0
+
+- Added support for roles, privileges and policies.
+- Introduced a new page(`Database studio`) for managing the full database schema.
+- Integrated introspection and alternation engine from `drizzle-kit`.
+
 ## 1.1.4
 
 - The page title section has been replaced by the `page-title` slot.
