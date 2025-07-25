@@ -5,8 +5,8 @@ This changelog documents updates and fixes for the Drizzle Studio integration th
 ## 1.2.0
 
 - Added support for roles, privileges and policies.
-- Introduced a new page(`Database studio`) for managing the full database schema.
-- Integrated introspection and alternation engine from `drizzle-kit`.
+- Introduced a new page (`Database studio`) for managing the full database schema.
+- Integrated the introspection and alternation engine from `drizzle-kit`.
 
 ## 1.1.4
 
