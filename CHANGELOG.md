@@ -2,6 +2,15 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.2.2
+
+- Fixed incorrect sql generation.
+
+## 1.2.1
+
+- Prevent use of non-system functions when querying the database.
+- Fixed `RangeError`.
+
 ## 1.2.0
 
 - Added support for roles, privileges and policies.
