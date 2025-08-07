@@ -2,6 +2,15 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.2.3
+
+- Fully qualified PostgreSQL system tables and operators when querying the database.
+- Disabled the `Superuser` option for roles.
+- Removed system roles from the `Privileges` section.
+- Made the RLS toggle green when enabled.
+- Always show RLS lock symbols on sidebar hover.
+- Fixed some issues.
+
 ## 1.2.2
 
 - Fixed incorrect sql generation.
