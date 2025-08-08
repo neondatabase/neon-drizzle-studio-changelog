@@ -2,6 +2,11 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.2.4
+
+- Fixed retrieval of foreign keys from the database.
+- Fixed handling of bigints.
+
 ## 1.2.3
 
 - Fully qualified PostgreSQL system tables and operators when querying the database.
