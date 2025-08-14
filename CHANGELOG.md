@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.2.6
+
+- Fixed the errors introduced in version `1.2.5` (related to creating and altering entities).
+
 ## 1.2.5
 
 - Added initial support for partitioned tables.
