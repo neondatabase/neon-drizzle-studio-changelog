@@ -2,6 +2,14 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.5.3
+
+- Fixed indexes introspection (ARRAY\[...]\).
+
+## 1.5.2
+
+- Fixed foreign key resolution for inaccessible tables.
+
 ## 1.5.1
 
 - Added the ability to sort by multiple columns.
