@@ -2,6 +2,12 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.6.0
+
+- Added a role selector.
+- Prevented loading the entire `bytea` content.
+- Improved `bytea` support with content type detection and preview capability.
+
 ## 1.5.3
 
 - Fixed indexes introspection (ARRAY\[...]\).
