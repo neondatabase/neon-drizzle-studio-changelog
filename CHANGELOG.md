@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.6.1
+
+- Fixed the schema renaming issue.
+
 ## 1.6.0
 
 - Added a role selector.
