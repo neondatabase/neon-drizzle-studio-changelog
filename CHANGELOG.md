@@ -2,6 +2,16 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.7.1
+
+- Fixed an error that occurred after committing a schema rename.
+
+## 1.7.0
+
+- Reworked the Schema page and entity alteration logic.
+- Added support for realtime updates.
+- Removed the "Grantor" section from privileges, as it should always be the current user.
+
 ## 1.6.1
 
 - Fixed the schema renaming issue.
