@@ -2,6 +2,12 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.8.0
+
+- Reworked the partitions UI.
+- Partitions are now loaded on demand.
+- Prevented browser tabs from becoming unresponsive during introspection of large databases.
+
 ## 1.7.1
 
 - Fixed an error that occurred after committing a schema rename.
