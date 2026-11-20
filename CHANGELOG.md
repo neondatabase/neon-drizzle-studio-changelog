@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.8.1
+
+- Fixed the column introspection query to avoid using a subquery for each column's `seqId`.
+
 ## 1.8.0
 
 - Reworked the partitions UI.
